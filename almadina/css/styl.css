@@ -1,0 +1,206 @@
+
+html{
+    color: rgba(5, 87, 5, 0.911);
+    font-family: 'cairo',sans-serif;
+font-weight: 400;
+font-size: 20px;
+}
+
+header{
+    background-image:url(../img/water.jpg);
+background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 70px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.hero{
+    flex: 1;
+     width: 1140px;
+     position: absolute;
+     top: 8%;
+     right: 45%;
+}
+.hero1{
+    flex: 1;
+     width: 1140px;
+     position: absolute;
+     top: 50%;
+     right: 39%;
+}
+.pta:active:active,
+.pta:hover{
+    background-color: rgb(34, 255, 0);
+}
+.pta{
+    margin: 10px;
+    color: black;
+    transition: background-color 0s, color 0s;
+    border: 1.5px solid rgb(6, 2, 14);
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(114, 238, 147);
+}
+.pts:active,
+.pts:hover{
+    background-color:  rgb(34, 255, 0);
+}
+.pts{
+    margin: 10px;
+    color: black;
+    transition: background-color 0s, color 0s;
+    border: 1.5px solid rgb(6, 2, 14);
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(114, 238, 147);
+}
+.ptd:active,
+.ptd:hover{
+    background-color: rgb(34, 255, 0);
+}
+.ptd{
+    margin: 10px;
+    color: black;
+    transition: background-color 0s, color 0s;
+    border: 1.5px solid rgb(6, 2, 14);
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(114, 238, 147);
+}.ptf:active,
+.ptf:hover{
+    background-color:rgb(34, 255, 0);
+}
+.ptf{
+    margin: 10px;
+    color: black;
+    transition: background-color 0s, color 0s;
+    border: 1.5px solid rgb(6, 2, 14);
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(114, 238, 147);
+}
+.asd{
+    padding: 10px;
+    background-color: white;
+    background-size: cover;
+    width: 1510px;
+    margin: 0 auto;
+}
+.a-asd{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    background-image:url(../img/18\ ‫‬.jpg);
+    background-size: cover;
+    height: 50vh;   
+}
+.asd1{
+    color: rgb(255,255,255);
+    padding: 10px;
+flex: 1;
+order: 1;
+border: 2px solid rgba(194, 8, 8, 0.582);
+display: inline-block;
+background-color: rgba(60, 17, 109, 0.648);
+margin-left: 10px;
+border-radius: 40px;
+
+}
+.asd2{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-left: 10px;
+    flex: 1;
+    order: 3;
+    border: 2px solid rgba(194, 8, 8, 0.582);
+display: inline-block;
+background-color: rgba(60, 17, 109, 0.648);
+
+border-radius: 40px;
+}
+.asd3{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-left: 10px;
+    right: 50%;
+    flex: 1;
+    order: 2;
+    border: 2px solid rgba(194, 8, 8, 0.582);
+display: inline-block;
+background-color: rgba(16, 139, 12, 0.61);
+border-radius: 40px;
+
+}
+h3,h4,h5{
+    margin-right: 45%;
+    font-size: larger;
+    border: 2px solid rgba(162, 49, 49, 0.644);
+    display: inline-block;
+    border-radius: 10px;
+}
+.pas{
+    padding: 10px;
+ 
+    background-size: cover;
+    width: 1510px;
+    margin: 0 auto;
+}
+.p-pass{
+    flex: 1;
+     width: 100%;
+     position: absolute;
+     justify-content: space-between; 
+     background-image: url(../1.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.pas2{
+    flex: 1;
+    margin-right: 43%;
+    font-size: 35px;
+    color:  rgb(255, 255, 255);
+    margin-top: 9%;
+}
+h6{
+    display: flex;
+    margin-right: 39%;
+    font-size: 60px;
+    margin-bottom: auto;
+    color:  rgb(16, 247, 16);
+    
+}
+h7:active,
+h7:hover{
+    background-color:rgb(34, 255, 0);
+}
+h7{
+    display: flex;
+    margin-right: 46%;
+    font-size: 40px;
+    margin-bottom: auto;
+    color:  rgb(255, 255, 255);
+    margin-top: 9%;
+    transition: background-color 1s, color 1s;
+    border: 2px solid rgba(162, 49, 49, 0.644);
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+}
+
+
